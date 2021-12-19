@@ -4,4 +4,4 @@ CREATE TABLE buibid.fragestellung1_h2_p_svp_p_sps_annahme(datum TIMESTAMP, titel
 
 -- Alle Einträge bei denen entweder mit Ja oder mit Nein abgestimmt wurden herausfiltern
 -- Anschliessend berechnetes Feld 'ungleichheit' befüllen, 0 = Übereinstimmung, 1 = Nicht übereingestimmt
-INSERT INTO TABLE buibid.fragestellung1_h2_p_svp_p_sps_annahme SELECT datum, titel_kurz_d, p_svp, p_sps, annahme, ABS(p_svp - annahme), ABS(p_sps - annahme) FROM buibid.import_p_svp_annahme;
+INSERT INTO TABLE buibid.fragestellung1_h2_p_svp_p_sps_annahme SELECT datum, titel_kurz_d, p_svp, p_sps, annahme, ABS(p_svp - annahme), ABS(p_sps - annahme) FROM buibid.import_p_svp_p_sps_annahme;
