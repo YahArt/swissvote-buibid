@@ -1,0 +1,517 @@
+datum,titel_kurz_d,p_svp,p_sps,annahme
+1920-03-21 08:00:00,Gesetz zur Ordnung des Arbeitsverhältnisses,0,1,0
+1920-05-16 11:00:00,Beitritt zum Völkerbund,1,0,1
+1920-10-31 12:00:00,Gesetz zur Arbeitszeit bei den Eisenbahnen,0,1,1
+1921-01-30 13:00:00,Initiative für ein Staatsvertragsreferendum,1,1,1
+1921-01-30 14:00:00,Initiative «für die Aufhebung der Militärjustiz»,0,1,0
+1922-06-11 17:00:00,Initiative «betreffend die Erlangung des Schweizerbürgerrechts»,0,0,0
+1922-06-11 18:00:00,Initiative «betreffend die Ausweisung von Ausländern»,1,0,0
+1922-06-11 19:00:00,Initiative «betreffend die Wählbarkeit der Bundesbeamten in den Nationalrat»,0,1,0
+1922-09-24 20:00:00,Strafrechtsrevision (innere Sicherheit und bedingter Strafvollzug),1,0,0
+1922-12-03 21:00:00,Initiative für eine einmalige Vermögensabgabe,0,1,0
+1923-02-18 22:00:00,Schutzhaft-Initiative,0,0,0
+1923-02-18 23:00:00,Abkommen mit Frankreich betreffend Hochsavoyen,1,0,0
+1923-04-15 00:00:00,Zollinitiative,0,1,0
+1923-06-03 01:00:00,Bundesbeschluss zum Alkoholwesen,1,1,0
+1924-02-17 02:00:00,Fabrikgesetz,1,0,0
+1925-05-24 03:00:00,Initiative für eine AHV/IV,0,1,0
+1925-10-25 04:00:00,Beschluss betreffend Aufenthalt und Niederlassung der Ausländer,1,0,1
+1925-12-06 05:00:00,Bundesbeschluss betreffend eine AHV/IV,1,1,1
+1926-12-05 06:00:00,Artikel zur Getreideversorgung,1,1,0
+1927-05-15 07:00:00,Entschädigung an Kantone für Alpenstrassen,1,1,1
+1928-05-20 09:00:00,Massnahmen gegen die Überfremdung,1,1,1
+1929-03-03 11:00:00,Initiative zur Getreideversorgung,1,0,0
+1929-03-03 13:00:00,Zolltarifgesetz,1,0,1
+1929-05-12 14:00:00,Initiative «betreffend die Gesetzgebung über den Strassenverkehr»,0,0,0
+1929-05-12 15:00:00,Initiative «für ein Branntweinverbot»,0,1,0
+1930-04-06 16:00:00,Neuregelung des Alkoholwesens,1,1,1
+1931-02-08 17:00:00,Ordensverbot,1,0,1
+1931-03-15 18:00:00,Beschluss über die Mitgliederzahl des Nationalrates,1,0,1
+1931-03-15 19:00:00,"Amtsdauer des Nationalrats, des Bundesrats und des Bundeskanzlers",1,0,1
+1931-12-06 20:00:00,Gesetz über die AHV,0,1,0
+1931-12-06 21:00:00,Gesetz über die Besteuerung des Tabaks,1,1,0
+1933-05-28 22:00:00,Gesetz zur Herabsetzung der Löhne des Bundespersonals,1,0,0
+1934-03-11 23:00:00,Gesetz über den Schutz der öffentlichen Ordnung,1,0,0
+1935-02-24 00:00:00,Neuordnung der militärischen Ausbildung,1,0,1
+1935-05-05 01:00:00,Verkehrsteilungsgesetz,0,0,0
+1935-06-02 02:00:00,Initiative «zur Bekämpfung der Wirtschaftskrise»,0,1,0
+1935-09-08 03:00:00,Initiative für eine Totalrevision der Bundesverfassung,0,0,0
+1937-11-28 04:00:00,Initiative «für ein Verbot der Freimaurerei»,0,0,0
+1938-02-20 05:00:00,Anerkennung des Rätoromanischen als Nationalsprache,1,1,1
+1938-02-20 06:00:00,Initiative zur Beschränkung der Dringlichkeitsklausel,0,0,0
+1938-02-20 07:00:00,Initiative «Private Rüstungsindustrie»,0,0,0
+1938-02-20 08:00:00,Gegenentwurf zur Initiative «Private Rüstungsindustrie»,1,1,1
+1938-07-03 09:00:00,Schweizerisches Strafgesetzbuch,1,1,1
+1938-11-27 10:00:00,Übergangsordnung des Finanzhaushalts,1,1,1
+1939-01-22 11:00:00,Initiative für eine Erweiterung der Verfassungsgerichtsbarkeit,0,0,0
+1939-01-22 12:00:00,Beschluss betreffend eine Einschränkung der Dringlichkeitsklausel,1,1,1
+1939-06-04 13:00:00,Bundesbeschluss zum Ausbau der Landesverteidigung und zur Bekämpfung der Arbeitslosigkeit,1,1,1
+1940-12-01 15:00:00,Einführung des obligatorischen militärischen Vorunterrichts,1,1,0
+1941-03-09 16:00:00,Initiative «zur Neuordnung des Alkoholwesens»,0,0,0
+1942-01-25 17:00:00,Initiative für die Wahl des Bundesrates durch das Volk,0,1,0
+1944-10-29 19:00:00,Gesetz über den unlauteren Wettbewerb,1,1,1
+1945-01-21 20:00:00,Gesetz über die Bundesbahnen,1,1,1
+1945-11-25 21:00:00,Gegenentwurf zur Volksinitiative «Für die Familie»,1,1,1
+1946-12-08 23:00:00,Initiative «Recht auf Arbeit»,0,0,0
+1947-05-18 00:00:00,Initiative «Wirtschaftsreform und Rechte der Arbeit»,0,1,0
+1947-07-06 01:00:00,Revision der Wirtschaftsartikel,1,1,1
+1947-07-06 02:00:00,Gesetz über die AHV,1,1,1
+1949-05-22 04:00:00,Nationalbank-Artikel,1,1,0
+1949-09-11 06:00:00,Initiative «für die Rückkehr zur direkten Demokratie»,0,0,1
+1949-12-11 07:00:00,Gesetz über das Dienstverhältnis der Bundesbeamten,1,1,1
+1950-01-29 08:00:00,Massnahmen zur Förderung der Wohnbautätigkeit,1,1,0
+1950-06-04 09:00:00,Neuordnung des Finanzhaushalts,1,0,0
+1950-10-01 10:00:00,Initiative zur «Verhinderung der Spekulation»,0,1,0
+1950-12-03 11:00:00,Beschluss über die Mitgliederzahl des Nationalrates,1,1,1
+1950-12-03 12:00:00,Finanzordnung 1951 bis 1954,1,1,1
+1951-02-25 13:00:00,Autotransportordnung,1,1,0
+1951-04-15 14:00:00,Freigeld-Initiative,0,0,0
+1952-03-30 18:00:00,Landwirtschaftsgesetz,1,1,1
+1952-04-20 19:00:00,Warenumsatzsteuer-Initiative,0,0,0
+1952-05-18 20:00:00,Initiative «zur Rüstungsfinanzierung und zum Schutze der sozialen Errungenschaften»,0,1,0
+1952-07-06 21:00:00,Bundesbeschluss über die Deckung der Rüstungsausgaben,1,1,0
+1952-10-05 22:00:00,Tabakzölle und Tabakkontingentierung,1,1,1
+1952-10-05 23:00:00,Bundesbeschluss über den Einbau von Luftschutzräumen,1,0,0
+1952-11-23 00:00:00,Befristete Weiterführung der Preiskontrolle,1,1,1
+1952-11-23 01:00:00,Beschluss zur Brotgetreideversorgung des Landes,1,1,1
+1953-12-06 03:00:00,Neuordnung des Finanzhaushalts,1,1,0
+1953-12-06 04:00:00,Verfassungsartikel über den Schutz der Gewässer ,1,1,1
+1954-06-20 06:00:00,Hilfe an kriegsgeschädigte Auslandschweizer,1,1,0
+1954-10-24 07:00:00,Finanzordnung 1955 bis 1958,1,1,1
+1955-03-13 09:00:00,Mieter- und Konsumentenschutzinitiative,0,1,0
+1956-03-04 11:00:00,Befristete Weiterführung einer beschränkten Preiskontrolle,1,1,1
+1956-05-13 13:00:00,Gewährung einer Hilfe an die Holzverzuckerungs-AG Graubünden,1,1,0
+1956-09-30 14:00:00,Revision der Brotgetreideordnung ,1,0,0
+1957-03-03 16:00:00,Zivilschutzartikel,1,1,0
+1957-03-03 17:00:00,Verfassungsartikel betreffend Rundspruch und Fernsehen,1,1,0
+1957-11-24 18:00:00,Verfassungsartikel zu Atomenergie und Strahlenschutz,1,1,1
+1957-11-24 19:00:00,Beschluss zur Brotgetreideversorgung des Landes,1,1,1
+1958-05-11 21:00:00,Neuordnung des Finanzhaushalts,1,0,1
+1958-07-06 22:00:00,Verfassungsartikel zum Filmwesen,1,1,1
+1958-07-06 23:00:00,Bundesbeschluss über die Verbesserung des Strassennetzes,1,1,1
+1958-12-07 01:00:00,Erhöhung des Höchsteinsatzes bei Kursaalspielen,1,1,1
+1958-12-07 02:00:00,Abkommen mit Italien zur Wasserkraft des Spöl,1,1,1
+1959-02-01 03:00:00,Einführung des Frauenstimmrechts,0,1,0
+1959-05-24 04:00:00,Zivilschutzartikel,1,1,1
+1960-05-29 05:00:00,Weiterführung befristeter Preiskontrollmassnahmen,1,1,1
+1960-12-04 06:00:00,Massnahmen für die Milchwirtschaft,1,1,1
+1961-03-05 07:00:00,Artikel betreffend Leitungsanlagen für Treibstoffe,1,1,1
+1961-03-05 08:00:00,Treibstoffzoll zur Finanzierung der Nationalstrassen,1,1,0
+1961-10-22 09:00:00,Volksinitiative zur Einführung der Gesetzesinitiative,0,1,0
+1961-12-03 10:00:00,Uhrenstatut,1,1,1
+1962-04-01 11:00:00,Initiative «für ein Verbot der Atomwaffen»,0,0,0
+1962-05-27 12:00:00,Natur- und Heimatschutz-Artikel,1,1,1
+1962-11-04 14:00:00,Festsetzung der Mitgliederzahl des Nationalrates,1,1,1
+1963-05-26 15:00:00,Initiative für ein Referendum gegen Atomwaffen,0,1,0
+1963-12-08 16:00:00,Weiterführung der Finanzordnung ,1,1,1
+1963-12-08 17:00:00,Artikel über Stipendien und Ausbildungsbeihilfen,1,1,1
+1964-05-24 19:00:00,Berufsbildungsgesetz,1,1,1
+1964-12-06 20:00:00,Weiterführung befristeter Preiskontrollmassnahmen,1,1,1
+1965-02-28 21:00:00,Bekämpfung der Teuerung durch Massnahmen im Kreditwesen,1,1,1
+1965-02-28 22:00:00,Bekämpfung der Teuerung durch Massnahmen in der Bauwirtschaft,1,1,1
+1965-05-16 23:00:00,Milchbeschluss,1,1,1
+1966-10-16 00:00:00,Auslandschweizer-Artikel,1,1,1
+1967-07-02 02:00:00,Initiative «gegen die Bodenspekulation»,0,1,0
+1969-09-14 06:00:00,Verfassungsrechtliche Ordnung des Bodenrechts,1,1,1
+1970-02-01 07:00:00,Bundesbeschluss über die inländische Zuckerwirtschaft,1,0,1
+1970-06-07 08:00:00,Initiative «Gegen die Überfremdung»,0,0,0
+1970-09-27 09:00:00,Verfassungsartikel zur Förderung von Turnen und Sport,1,1,1
+1970-09-27 10:00:00,Initiative «Recht auf Wohnung und Ausbau des Familienschutzes»,0,1,0
+1970-11-15 11:00:00,Änderung der Finanzordnung,1,1,0
+1971-02-07 12:00:00,Einführung des Frauenstimmrechts,1,1,1
+1971-06-06 13:00:00,Umweltschutzartikel,1,1,1
+1971-06-06 14:00:00,Weiterführung der Finanzordnung,1,1,1
+1972-03-05 15:00:00,Initiative «zur Förderung des Wohnungsbaues»,0,0,0
+1972-03-05 17:00:00,Verfassungsartikel über den Mieterschutz und die Allgemeinverbindlicherklärung von Mietverträgen,1,1,1
+1972-06-04 18:00:00,Massnahmen zur Stabilisierung des Baumarktes,1,1,1
+1972-06-04 19:00:00,Bundesbeschluss über den Schutz der Währung,1,1,1
+1972-09-24 20:00:00,Initiative für ein Waffenausfuhrverbot,0,1,0
+1972-12-03 21:00:00,Initiative zur Einführung einer Volkspension,0,0,0
+1972-12-03 23:00:00,Abkommen mit der EWG,1,1,1
+1973-03-04 00:00:00,Bildungsartikel,1,1,0
+1973-03-04 01:00:00,Verfassungsartikel zur wissenschaftlichen Forschung,1,1,1
+1973-05-20 02:00:00,Aufhebung des Jesuiten- und des Klosterartikels,1,1,1
+1973-12-02 03:00:00,Massnahmen zur Preisüberwachung,1,0,1
+1973-12-02 04:00:00,Massnahmen auf dem Gebiet des Kreditwesens,1,1,1
+1973-12-02 05:00:00,Massnahmen zur Stabilisierung des Baumarktes,1,1,1
+1973-12-02 06:00:00,Einschränkung der steuerwirksamen Abschreibungen,1,1,1
+1973-12-02 07:00:00,Tierschutzartikel ,1,1,1
+1974-10-20 08:00:00,Initiative «Gegen die Überfremdung»,0,0,0
+1974-12-08 09:00:00,Verbesserung des Bundeshaushalts,1,1,0
+1974-12-08 10:00:00,Erschwerung von Ausgabenbeschlüssen,1,0,1
+1974-12-08 11:00:00,Initiative «für eine soziale Krankenversicherung»,0,1,0
+1975-03-02 13:00:00,Konjunkturartikel,1,1,0
+1975-06-08 14:00:00,Bundesbeschluss über den Schutz der Währung,1,1,1
+1975-06-08 15:00:00,Bundesbeschluss über die Finanzierung der Nationalstrassen,1,1,1
+1975-06-08 16:00:00,Änderung des Generalzolltarifs,1,0,0
+1975-06-08 17:00:00,Bundesbeschluss zur Erhöhung der Steuereinnahmen,1,1,1
+1975-06-08 18:00:00,Erschwerung von Ausgabenbeschlüssen,1,0,1
+1975-12-07 19:00:00,Reform der Niederlassungsfreiheit und Unterstützungsregelung,1,1,1
+1975-12-07 20:00:00,Verfassungsbestimmungen zur Wasserwirtschaft,1,1,1
+1976-03-21 22:00:00,Initiative «für die Mitbestimmung der Arbeitnehmer»,0,1,0
+1976-06-13 01:00:00,Raumplanungsgesetz,1,1,0
+1976-06-13 02:00:00,Darlehen an die Internationale Entwicklungsorganisation,1,1,0
+1976-06-13 03:00:00,Neukonzeption der Arbeitslosenversicherung,1,1,1
+1976-09-26 04:00:00,Radio- und Fernsehartikel,1,0,0
+1976-09-26 05:00:00,Initiative für eine Haftpflichtversicherung für Motorfahrzeuge und Fahrräder,0,1,0
+1976-12-05 06:00:00,Bundesbeschluss über die Geld- und Kreditpolitik,1,1,1
+1976-12-05 07:00:00,Bundesbeschluss über die Preisüberwachung,1,1,1
+1976-12-05 08:00:00,Initiative «für die Einführung der 40-Stunden-Woche»,0,1,0
+1977-03-13 09:00:00,Vierte «Überfremdungsinitiative»,0,0,0
+1977-03-13 10:00:00,Initiative «für eine Beschränkung der Einbürgerungen»,0,0,0
+1977-03-13 11:00:00,Initiative zur Neuordnung des Staatsvertragsreferendums,0,0,0
+1977-06-12 13:00:00,Neuordnung der Umsatzsteuer und der direkten Bundessteuer,1,1,0
+1977-06-12 14:00:00,Bundesbeschluss über die Steuerharmonisierung,1,1,1
+1977-09-25 15:00:00,Mieterschutzinitiative,0,1,0
+1977-09-25 17:00:00,Initiative «gegen die Luftverschmutzung durch Motorfahrzeuge»,0,1,0
+1977-09-25 18:00:00,Erhöhung der Unterschriftenzahl für das Referendum,1,0,1
+1977-09-25 19:00:00,Erhöhung der Unterschriftenzahl für die Verfassungsinitiative,1,0,1
+1977-12-04 21:00:00,«Reichtumssteuer-Initiative»,0,1,0
+1977-12-04 22:00:00,Bundesgesetz über die politischen Rechte,1,0,1
+1977-12-04 00:00:00,Massnahmen zum Ausgleich des Bundeshaushaltes,1,0,1
+1978-02-26 01:00:00,Initiative für mehr Mitbestimmung im Nationalstrassenbau,0,0,0
+1978-02-26 02:00:00,9. AHV-Revision,1,1,1
+1978-02-26 03:00:00,Initiative zur Herabsetzung des AHV-Alters,0,0,0
+1978-02-26 04:00:00,Konjunkturartikel,1,1,1
+1978-05-28 06:00:00,Zolltarifgesetz (Brotpreis),1,0,1
+1978-05-28 08:00:00,Gesetz über die Hochschulförderung,1,1,0
+1978-09-24 10:00:00,Bundesbeschluss über die Gründung des Kantons Jura,1,1,1
+1978-12-03 11:00:00,Milchwirtschaftsbeschluss,1,0,1
+1978-12-03 12:00:00,Tierschutzgesetz ,1,1,1
+1978-12-03 13:00:00,Sicherheitspolizeigesetz,1,0,0
+1978-12-03 14:00:00,Berufsbildungsgesetz,1,0,1
+1979-02-18 15:00:00,Stimm- und Wahlrecht für 18-Jährige,1,1,0
+1979-02-18 16:00:00,Bundesbeschluss über die Fuss- und Wanderwege,1,1,1
+1979-02-18 17:00:00,Initiative «gegen Suchtmittelreklame»,0,1,0
+1979-02-18 18:00:00,Atominitiative,0,1,0
+1979-05-20 19:00:00,Neuordnung der Umsatzsteuer und der direkten Bundessteuer,1,0,0
+1979-05-20 20:00:00,Atomgesetz,1,1,1
+1980-03-02 22:00:00,Neuordnung der Landesversorgung,1,1,1
+1980-11-30 23:00:00,Gurten- und Schutzhelmobligatorium,1,1,1
+1980-11-30 00:00:00,Aufhebung des Kantonsanteils an den Stempelabgaben,1,1,1
+1980-11-30 01:00:00,Abbau des Kantonsanteils an den Alkoholeinnahmen ,1,1,1
+1981-04-05 03:00:00,Initiative «für eine neue Ausländerpolitik»,0,1,0
+1981-06-14 04:00:00,Artikel zur Gleichstellung von Mann und Frau,1,1,1
+1981-06-14 05:00:00,Konsumentenschutz-Artikel,1,1,1
+1981-11-29 06:00:00,Weiterführung der Finanzordnung,1,1,1
+1982-06-06 07:00:00,Revision des Strafgesetzes (Gewaltverbrechen),1,0,1
+1982-06-06 08:00:00,Ausländergesetz,1,1,0
+1982-11-28 09:00:00,Preisüberwachungs-Initiative,0,1,1
+1982-11-28 10:00:00,Gegenentwurf zur Preisüberwachungs-Initiative,1,0,0
+1983-12-04 13:00:00,Reform der Bürgerrechtsregelung in der Bundesverfassung,1,1,1
+1983-12-04 14:00:00,Bundesbeschluss über die Erleichterung gewisser Einbürgerungen,1,1,0
+1984-02-26 15:00:00,Einführung einer Schwerverkehrsabgabe,1,1,1
+1984-02-26 16:00:00,Einführung der Autobahnvignette,1,1,1
+1984-02-26 17:00:00,Zivildienst-Initiative,0,1,0
+1984-05-20 18:00:00,Initiative «gegen den Missbrauch des Bankgeheimnisses und der Bankenmacht»,0,1,0
+1984-05-20 19:00:00,Initiative «Gegen den Ausverkauf der Heimat»,0,1,0
+1984-09-23 20:00:00,Initiative «für eine Zukunft ohne weitere Atomkraftwerke»,0,1,0
+1984-09-23 21:00:00,Initiative «für eine umweltgerechte Energieversorgung»,0,1,0
+1984-12-02 22:00:00,Initiative «für einen wirksamen Schutz der Mutterschaft»,0,1,0
+1984-12-02 23:00:00,Radio- und Fernsehartikel,1,1,1
+1984-12-02 00:00:00,Bundesbeschluss über die Entschädigung der Opfer von Gewaltverbrechen,1,1,1
+1985-03-10 01:00:00,Aufhebung der Bundesbeiträge für den Primarschulunterricht,1,1,1
+1985-03-10 02:00:00,Aufhebung der Beitragspflicht des Bundes im Gesundheitswesen,1,1,1
+1985-03-10 03:00:00,Bundesbeschluss über die Ausbildungsbeiträge,1,0,0
+1985-03-10 04:00:00,Ferien-Initiative,0,1,0
+1985-06-09 05:00:00,Initiative «Recht auf Leben»,0,0,0
+1985-06-09 06:00:00,Aufhebung des Kantonsanteils an den Stempelabgaben,1,1,1
+1985-06-09 07:00:00,Neuverteilung der Erträge aus der Alkoholabgabe,1,1,1
+1985-06-09 08:00:00,Aufhebung der Unterstützung für die Selbstversorgung mit Brotgetreide,0,1,1
+1985-09-22 09:00:00,Bundesbeschluss zur Koordination des Schuljahresbeginns,0,1,1
+1985-09-22 10:00:00,Bundesbeschluss über die Innovationsrisikogarantie,0,1,0
+1985-09-22 11:00:00,Neues Ehe- und Erbrecht,1,1,1
+1985-12-01 12:00:00,Initiative «für die Abschaffung der Vivisektion»,0,0,0
+1986-03-16 13:00:00,UNO-Beitritt,0,1,0
+1986-09-28 14:00:00,Kulturinitiative,0,1,0
+1986-09-28 16:00:00,Initiative zur Berufsbildung und Umschulung,0,1,0
+1986-12-07 18:00:00,Bundesbeschluss zum Mieterschutz,1,1,1
+1986-12-07 19:00:00,Initiative für eine Schwerverkehrsabgabe,0,1,0
+1987-04-05 20:00:00,Asylgesetz,1,0,1
+1987-04-05 21:00:00,Ausländergesetz,1,0,1
+1987-04-05 22:00:00,Initiative für die Einführung eines Rüstungsreferendums,0,1,0
+1987-04-05 23:00:00,Abstimmungsverfahren bei Volksinitiativen mit Gegenentwurf,0,1,1
+1987-12-06 00:00:00,Bahn 2000,1,1,1
+1987-12-06 01:00:00,Krankenversicherungsgesetz,1,1,0
+1987-12-06 02:00:00,Initiative «zum Schutz der Moore - Rothenthurm-Initiative»,0,1,1
+1988-06-12 03:00:00,Verfassungsgrundlagen für eine koordinierte Verkehrspolitik,0,1,0
+1988-06-12 04:00:00,Initiative zur Herabsetzung des AHV-Rentenalters,0,1,0
+1988-12-04 05:00:00,«Stadt-Land-Initiative gegen die Bodenspekulation»,0,1,0
+1988-12-04 06:00:00,Initiative «zur Herabsetzung der Arbeitszeit»,0,1,0
+1988-12-04 07:00:00,Initiative «für die Begrenzung der Einwanderung»,0,0,0
+1989-06-04 08:00:00,Kleinbauern-Initiative,0,1,0
+1989-11-26 10:00:00,Initiative «pro Tempo 130/100»,0,0,0
+1990-04-01 11:00:00,Initiative «für eine Begrenzung des Strassenbaus»,0,1,0
+1990-04-01 12:00:00,Initiative «für eine autobahnfreie Landschaft zwischen Murten und Yverdon»,0,1,0
+1990-04-01 13:00:00,Initiative «für ein autobahnfreies Knonauer Amt»,0,1,0
+1990-04-01 14:00:00,Initiative für eine freie Aarelandschaft zwischen Biel und Solothurn,0,1,0
+1990-04-01 16:00:00,Gesetz über die Organisation der Bundesrechtspflege,1,0,0
+1990-09-23 17:00:00,Initiative für einen Ausstieg aus der Atomenergie,0,1,0
+1990-09-23 18:00:00,Initiative «Stopp dem Atomkraftwerkbau (Moratorium)»,0,1,1
+1990-09-23 20:00:00,Strassenverkehrsgesetz,1,0,1
+1991-03-03 21:00:00,Herabsetzung des Stimmrechtsalters auf 18 Jahre,1,1,1
+1991-03-03 22:00:00,Initiative «zur Förderung des öffentlichen Verkehrs»,0,1,0
+1991-06-02 23:00:00,Neuordnung der Bundesfinanzen (Einführung Mehrwertsteuer),1,1,0
+1991-06-02 00:00:00,Militärstrafgesetz,1,0,1
+1992-02-16 01:00:00,«Krankenkassen-Initiative»,0,1,0
+1992-02-16 02:00:00,Initiative «Weg vom Tierversuch!»,0,1,0
+1992-05-17 05:00:00,Gewässerschutzgesetz,1,1,1
+1992-05-17 06:00:00,Gewässerschutz-Initiative,0,1,0
+1992-05-17 07:00:00,Regelung der Fortpflanzungs- und Gentechnologie,1,1,1
+1992-05-17 08:00:00,Einführung eines Zivildiensts,1,1,1
+1992-05-17 09:00:00,Reform des Sexualstrafrechts,1,1,1
+1992-09-27 10:00:00,Alpentransit-Beschluss (NEAT),1,1,1
+1992-09-27 11:00:00,Geschäftsverkehrsgesetz,0,1,1
+1992-09-27 12:00:00,Entschädigungsgesetz,0,1,0
+1992-09-27 13:00:00,Infrastrukturgesetz,0,1,0
+1992-09-27 14:00:00,Gesetz über die Stempelabgaben,1,0,1
+1992-09-27 15:00:00,Gesetz über das bäuerliche Bodenrecht,1,1,1
+1992-12-06 16:00:00,EWR-Beitritt,0,1,0
+1993-03-07 17:00:00,Erhöhung des Treibstoffzolls,1,1,1
+1993-03-07 19:00:00,Initiative «zur Abschaffung der Tierversuche»,0,0,0
+1993-06-06 20:00:00,Initiative «40 Waffenplätze sind genug»,0,1,0
+1993-06-06 21:00:00,Initiative «für eine Schweiz ohne neue Kampfflugzeuge»,0,1,0
+1993-09-26 22:00:00,Bundesbeschluss gegen den Waffenmissbrauch,1,1,1
+1993-09-26 23:00:00,Kantonswechsel des Laufentals zu Basel-Landschaft,1,1,1
+1993-09-26 00:00:00,1.-August-Initiative,1,1,1
+1993-09-26 01:00:00,Befristete Massnahmen in der Krankenversicherung,1,1,1
+1993-09-26 02:00:00,Massnahmen in der Arbeitslosenversicherung,1,0,1
+1993-11-28 03:00:00,Einführung der Mehrwertsteuer,1,1,1
+1993-11-28 04:00:00,"Mehrwertsteuer-Satz 6,5%",1,1,1
+1993-11-28 05:00:00,Mehrwertsteuerprozent für die AHV,1,1,1
+1993-11-28 06:00:00,Bundesbeschluss über besondere Verbrauchssteuern,1,1,1
+1993-11-28 07:00:00,Initiative «zur Verminderung der Alkoholprobleme»,0,1,0
+1993-11-28 08:00:00,Initiative «zur Verminderung der Tabakprobleme»,0,1,0
+1994-02-20 09:00:00,Weiterführung Autobahnvignette,1,1,1
+1994-02-20 10:00:00,Weiterführung der Schwerverkehrsabgabe,1,1,1
+1994-02-20 11:00:00,Einführung einer leistungsabhängigen Schwerverkehrsabgabe,0,1,1
+1994-02-20 12:00:00,Alpen-Initiative,0,1,1
+1994-02-20 13:00:00,Luftfahrtgesetz,1,0,1
+1994-06-12 14:00:00,Kulturförderungsartikel,0,1,0
+1994-06-12 15:00:00,Erleichterte Einbürgerung für junge Ausländer,1,1,0
+1994-06-12 16:00:00,UNO-Blauhelme,0,1,0
+1994-09-25 17:00:00,Aufhebung der Brotgetreideverbilligung,1,1,1
+1994-09-25 18:00:00,Verbot der Rassendiskriminierung,1,1,1
+1994-12-04 19:00:00,Krankenversicherungsgesetz,0,1,1
+1994-12-04 20:00:00,Initiative «für eine gesunde Krankenversicherung»,0,1,0
+1994-12-04 21:00:00,Zwangsmassnahmen im Ausländerrecht,1,0,1
+1995-03-12 22:00:00,Landwirtschaftsartikel,1,0,0
+1995-03-12 23:00:00,Milchwirtschaftsbeschluss,1,0,0
+1995-03-12 00:00:00,Landwirtschaftsgesetz,1,0,0
+1995-06-25 02:00:00,10. AHV-Revision,1,1,1
+1995-06-25 03:00:00,Initiative «zum Ausbau von AHV und IV»,0,1,0
+1995-06-25 04:00:00,Gesetz über den Erwerb von Grundstücken durch Personen im Ausland,1,1,0
+1996-03-10 05:00:00,Sprachenartikel,1,1,1
+1996-03-10 06:00:00,Übertritt Vellerat zum Kanton Jura,1,1,1
+1996-03-10 07:00:00,Zuständigkeit im Bereich der persönlichen militärischen Ausrüstung,1,1,0
+1996-03-10 08:00:00,Aufhebung der Pflicht zur Übernahme von Brennapparaten und Branntwein,1,1,1
+1996-06-09 10:00:00,Verfassungsartikel zur Landwirtschaft,1,1,1
+1996-06-09 11:00:00,Regierungs- und Verwaltungsorganisationsgesetz,0,1,0
+1996-12-01 12:00:00,Initiative «gegen die illegale Einwanderung»,1,0,0
+1996-12-01 13:00:00,Arbeitsgesetz,1,0,0
+1997-06-08 14:00:00,Initiative «EU-Beitrittsverhandlungen vors Volk!»,0,0,0
+1997-06-08 15:00:00,Initiative «für ein Verbot der Kriegsmaterialausfuhr»,0,1,0
+1997-06-08 16:00:00,Aufhebung des Pulverregals,1,1,1
+1997-09-28 17:00:00,Finanzierung der Arbeitslosenversicherung,1,0,0
+1997-09-28 18:00:00,Initiative «Jugend ohne Drogen»,1,0,0
+1998-06-07 19:00:00,Haushaltsziel 2001,1,0,1
+1998-06-07 20:00:00,«Gen-Schutz-Initiative»,0,1,0
+1998-06-07 21:00:00,Initiative «S.o.S. - Schweiz ohne Schnüffelpolizei»,0,1,0
+1998-09-27 22:00:00,Leistungsabhängige Schwerverkehrsabgabe (LSVA),0,1,1
+1998-09-27 00:00:00,Initiative «für die 10. AHV-Revision ohne Erhöhung des Rentenalters»,0,1,0
+1998-11-29 01:00:00,Finanzierung des öffentlichen Verkehrs (FinöV),0,1,1
+1998-11-29 02:00:00,Getreideartikel,1,1,1
+1998-11-29 03:00:00,Initiative «für eine vernünftige Drogenpolitik»,0,1,0
+1998-11-29 04:00:00,Arbeitsgesetz,1,1,1
+1999-02-07 05:00:00,Bundesbeschluss über die Wählbarkeit in den Bundesrat,1,1,1
+1999-02-07 06:00:00,Verfassungsbestimmung über die Transplantationsmedizin,1,1,1
+1999-02-07 07:00:00,Wohneigentums-Initiative,1,0,0
+1999-02-07 08:00:00,Raumplanungsgesetz,1,0,1
+1999-04-18 09:00:00,Neue Bundesverfassung,1,1,1
+1999-06-13 10:00:00,Asylgesetz,1,0,1
+1999-06-13 11:00:00,Massnahmen im Asyl- und Ausländerbereich,1,0,1
+1999-06-13 12:00:00,Bundesbeschluss über die ärztliche Verschreibung von Heroin,0,1,1
+1999-06-13 13:00:00,Gesetz über die Invalidenversicherung,1,0,0
+1999-06-13 14:00:00,Gesetz über die Mutterschaftsversicherung,0,1,0
+2000-03-12 15:00:00,Justizreform,1,1,1
+2000-03-12 16:00:00,Initiative «für die Beschleunigung der direkten Demokratie»,1,0,0
+2000-03-12 17:00:00,Initiative «für eine gerechte Vertretung der Frauen in den Bundesbehörden»,0,1,0
+2000-03-12 18:00:00,Initiative «für menschenwürdige Fortpflanzung»,0,0,0
+2000-03-12 19:00:00,«Verkehrshalbierungs-Initiative»,0,1,0
+2000-05-21 20:00:00,Bilaterale Abkommen mit der EU,1,1,1
+2000-09-24 21:00:00,Solarinitiative,0,1,0
+2000-09-24 22:00:00,Förderabgabe für erneuerbare Energien,0,1,0
+2000-09-24 00:00:00,Energielenkungsabgabe für die Umwelt,0,1,0
+2000-09-24 01:00:00,Initiative «für eine Regelung der Zuwanderung»,1,0,0
+2000-09-24 02:00:00,Initiative für ein konstruktives Referendum,0,1,0
+2000-11-26 03:00:00,Initiative «für eine Flexibilisierung der AHV - gegen die Erhöhung des Rentenalters für Frauen»,0,1,0
+2000-11-26 04:00:00,Initiative «für ein flexibles Rentenalter ab 62 für Frau und Mann»,0,1,0
+2000-11-26 05:00:00,«Umverteilungsinitiative»,0,1,0
+2000-11-26 06:00:00,Initiative «für tiefere Spitalkosten»,0,0,0
+2000-11-26 07:00:00,Bundespersonalgesetz,1,0,1
+2001-03-04 08:00:00,Initiative «Ja zu Europa!»,0,1,0
+2001-03-04 10:00:00,Initiative «Strassen für alle» (Tempo 30),0,1,0
+2001-06-10 11:00:00,Militärgesetz: Bewaffnung,0,1,1
+2001-06-10 12:00:00,Militärgesetz: Ausbildungszusammenarbeit,0,1,1
+2001-06-10 13:00:00,Aufhebung des Bistumsartikels,1,1,1
+2001-12-02 14:00:00,Schuldenbremse,1,0,1
+2001-12-02 15:00:00,Initiative «Energie statt Arbeit besteuern»,0,1,0
+2001-12-02 17:00:00,Initiative «Für einen freiwilligen zivilen Friedensdienst»,0,1,0
+2001-12-02 18:00:00,Initiative «für eine Kapitalgewinnsteuer»,0,1,0
+2002-03-03 19:00:00,Initiative für den UNO-Beitritt,0,1,1
+2002-03-03 20:00:00,Initiative «für eine kürzere Arbeitszeit»,0,1,0
+2002-06-02 21:00:00,Fristenregelung (Schwangerschaftsabbruch),0,1,1
+2002-06-02 22:00:00,Initiative «Für Mutter und Kind»,0,0,0
+2002-09-22 23:00:00,«Goldinitiative»,1,0,0
+2002-09-22 00:00:00,"Gegenentwurf «Gold für AHV, Kantone und Stiftung»",0,1,0
+2002-09-22 02:00:00,Elektrizitätsmarktgesetz,1,0,0
+2002-11-24 03:00:00,Initiative «gegen Asylrechtsmissbrauch»,1,0,0
+2002-11-24 04:00:00,Arbeitslosenversicherungsgesetz,1,0,1
+2003-02-09 05:00:00,Bundesbeschluss über die Änderung der Volksrechte,0,0,1
+2003-02-09 06:00:00,Gesetz über die kantonalen Beiträge an Spitalbehandlungen,1,1,1
+2003-05-18 08:00:00,Gesetz über den Zivilschutz,1,1,1
+2003-05-18 09:00:00,Initiative «Ja zu fairen Mieten»,0,1,0
+2003-05-18 10:00:00,Initiative «Für einen autofreien Sonntag pro Jahreszeit»,0,1,0
+2003-05-18 11:00:00,«Gesundheitsinitiative»,0,1,0
+2003-05-18 12:00:00,Initiative «Gleiche Rechte für Behinderte»,0,1,0
+2003-05-18 13:00:00,Initiative «Strom ohne Atom»,0,1,0
+2003-05-18 14:00:00,Initiative «MoratoriumPlus»,0,1,0
+2003-05-18 15:00:00,«Lehrstellen-Initiative»,0,1,0
+2004-02-08 16:00:00,Gegenentwurf zur Avanti-Initiative,1,0,0
+2004-02-08 17:00:00,Änderung des Mietrechts,1,0,0
+2004-02-08 18:00:00,Initiative für eine lebenslange Verwahrung für gefährliche Straftäter,1,0,1
+2004-05-16 19:00:00,11. AHV-Revision,1,0,0
+2004-05-16 20:00:00,Anhebung der Mehrwertsteuer zu Gunsten von AHV und IV,0,1,0
+2004-05-16 21:00:00,Steuerpaket,1,0,0
+2004-09-26 22:00:00,Erleichterte Einbürgerung von Jugendlichen der zweiten Generation,0,1,0
+2004-09-26 23:00:00,Bürgerrechtserwerb für die dritte Generation,0,1,0
+2004-09-26 00:00:00,Initiative «Postdienst für alle»,0,1,0
+2004-09-26 01:00:00,Erwerbsersatz für Dienstleistende und bei Mutterschaft,0,1,1
+2004-11-28 02:00:00,Neugestaltung Finanzausgleich,1,0,1
+2004-11-28 03:00:00,Neue Finanzordnung,1,1,1
+2004-11-28 04:00:00,Stammzellenforschungsgesetz,1,1,1
+2005-06-05 05:00:00,Abkommen zu Schengen und Dublin,0,1,1
+2005-06-05 06:00:00,Gesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare,0,1,1
+2005-09-25 07:00:00,Ausdehnung der Personenfreizügigkeit auf die neuen EU-Staaten,0,1,1
+2005-11-27 08:00:00,Initiative «für Lebensmittel aus gentechnikfreier Landwirtschaft»,0,1,1
+2005-11-27 09:00:00,Arbeitsgesetz (Sonntagsarbeit),1,0,1
+2006-05-21 10:00:00,Neuordnung der Verfassungsbestimmungen zur Bildung,1,1,1
+2006-09-24 11:00:00,Initiative «Nationalbankgewinne für die AHV»,0,1,0
+2006-09-24 12:00:00,Ausländergesetz,1,0,1
+2006-09-24 13:00:00,Asylgesetz,1,0,1
+2006-11-26 14:00:00,Gesetz über die Zusammenarbeit mit den Staaten Osteuropas,0,1,1
+2006-11-26 15:00:00,Gesetz über die Familienzulagen,0,1,1
+2007-03-11 16:00:00,Initiative für eine Einheitskrankenkasse,0,1,0
+2007-06-17 17:00:00,5. IV-Revision,1,0,1
+2008-02-24 18:00:00,Initiative «Gegen Kampfjetlärm in Tourismusgebieten»,0,1,0
+2008-02-24 19:00:00,Unternehmenssteuerreform II,1,0,1
+2008-06-01 20:00:00,Initiative «Für demokratische Einbürgerungen»,1,0,0
+2008-06-01 21:00:00,Initiative «gegen Behördenprogaganda»,1,0,0
+2008-06-01 22:00:00,Verfassungsartikel zur Krankenversicherung,1,0,0
+2008-11-30 23:00:00,Initiative für die Unverjährbarkeit pornografischer Straftaten an Kindern,1,0,1
+2008-11-30 00:00:00,Initiative «für ein flexibles AHV-Alter»,0,1,0
+2008-11-30 01:00:00,Verbandsbeschwerderechts-Initiative,1,0,0
+2008-11-30 02:00:00,Initiative «für eine vernünftige Hanf-Politik»,0,1,0
+2008-11-30 03:00:00,Betäubungsmittelgesetz,0,1,1
+2009-02-08 04:00:00,Weiterführung der Personenfreizügigkeit Schweiz–EU und Ausdehnung auf Bulgarien und Rumänien,0,1,1
+2009-05-17 05:00:00,Verfassungsartikel zur Komplementärmedizin,0,1,1
+2009-05-17 06:00:00,Einführung des biometrischen Passes,0,0,1
+2009-09-27 07:00:00,Zusatzfinanzierung der Invalidenversicherung,0,1,1
+2009-09-27 08:00:00,Verzicht auf die Einführung der allgemeinen Volksinitiative,1,1,1
+2009-11-29 10:00:00,Initiative «Für ein Verbot von Kriegsmaterial-Exporten»,0,1,0
+2009-11-29 11:00:00,Initiative «Gegen den Bau von Minaretten»,1,0,1
+2010-03-07 12:00:00,Verfassungsartikel über die Forschung am Menschen,0,1,1
+2010-03-07 13:00:00,Tierschutzanwalt-Initiative,0,1,0
+2010-03-07 14:00:00,Berufliche Vorsorge: Anpassung des Mindestumwandlungssatzes,1,0,0
+2010-09-26 15:00:00,Revision des Arbeitslosenversicherungsgesetzes,1,0,1
+2010-11-28 16:00:00,Ausschaffungsinitiative,1,0,1
+2010-11-28 17:00:00,Gegenentwurf zur Ausschaffungsinitiative,0,0,0
+2010-11-28 19:00:00,«Steuergerechtigkeits-Initiative»,0,1,0
+2011-02-13 20:00:00,Initiative «Für den Schutz vor Waffengewalt»,0,1,0
+2012-03-11 21:00:00,Zweitwohnungsinitiative,0,1,1
+2012-03-11 22:00:00,Initiative «Für ein steuerlich begünstigtes Bausparen»,1,0,0
+2012-03-11 23:00:00,Initiative «6 Wochen Ferien für alle»,0,1,0
+2012-03-11 00:00:00,Regelung der Geldspiele zugunsten gemeinnütziger Zwecke,1,1,1
+2012-03-11 01:00:00,Gesetz über die Buchpreisbindung,0,1,0
+2012-06-17 02:00:00,Initiative «Eigene vier Wände dank Bausparen»,1,0,0
+2012-06-17 03:00:00,Initiative «Staatsverträge vors Volk!»,1,0,0
+2012-06-17 04:00:00,Gesetz über die Krankenversicherung (Managed Care),0,0,0
+2012-09-23 05:00:00,Bundesbeschluss über die Jugendmusikförderung,0,1,1
+2012-09-23 06:00:00,Initiative «Sicheres Wohnen im Alter»,1,0,0
+2012-09-23 07:00:00,Initiative «Schutz vor Passivrauchen»,0,1,0
+2012-11-25 08:00:00,Tierseuchengesetz,0,1,1
+2013-03-03 09:00:00,Bundesbeschluss über die Familienpolitik,0,1,0
+2013-03-03 10:00:00,Initiative «gegen die Abzockerei»,0,1,1
+2013-03-03 11:00:00,Raumplanungsgesetz,0,1,1
+2013-06-09 12:00:00,Initiative «Volkswahl des Bundesrates»,1,0,0
+2013-06-09 13:00:00,Asylgesetz,1,0,1
+2013-09-22 14:00:00,Initiative zur Aufhebung der Wehrpflicht,0,1,0
+2013-09-22 15:00:00,Epidemiengesetz,0,1,1
+2013-09-22 16:00:00,Arbeitsgesetz (Öffnungszeiten von Tankstellenshops),1,0,1
+2013-11-24 17:00:00,Initiative «1:12 – Für gerechte Löhne»,0,1,0
+2013-11-24 18:00:00,«Familieninitiative»,1,0,0
+2014-02-09 20:00:00,Finanzierung und Ausbau der Eisenbahninfrastruktur (FABI),0,1,1
+2014-02-09 21:00:00,Initiative «Abtreibungsfinanzierung ist Privatsache»,1,0,0
+2014-02-09 22:00:00,Initiative «Gegen Masseneinwanderung»,1,0,1
+2014-05-18 23:00:00,Bundesbeschluss über die medizinische Grundversorgung,0,1,1
+2014-05-18 00:00:00,Initiative «Pädophile sollen nicht mehr mit Kindern arbeiten dürfen»,1,0,1
+2014-05-18 01:00:00,«Mindestlohn-Initiative»,0,1,0
+2014-05-18 02:00:00,Fonds zur Beschaffung des Kampfflugzeugs Gripen,1,0,0
+2014-09-28 03:00:00,Initiative «Schluss mit der MwSt-Diskriminierung des Gastgewerbes!»,1,0,0
+2014-09-28 04:00:00,Initiative «Für eine öffentliche Krankenkasse»,0,1,0
+2014-11-30 05:00:00,Initiative zur Abschaffung der Pauschalbesteuerung,0,1,0
+2014-11-30 06:00:00,Initiative «Stopp der Überbevölkerung – zur Sicherung der natürlichen Lebensgrundlagen»,0,0,0
+2014-11-30 07:00:00,Gold-Initiative,0,0,0
+2015-03-08 08:00:00,Initiative für steuerfreie Kinderzulagen,1,0,0
+2015-03-08 09:00:00,Initiative «Energie- statt Mehrwertsteuer»,0,0,0
+2015-06-14 11:00:00,Stipendieninitiative,0,1,0
+2015-06-14 12:00:00,Initiative «Millionen-Erbschaften besteuern für unsere AHV»,0,1,0
+2015-06-14 13:00:00,Radio- und Fernsehgesetz (Radio- und Fernsehabgabe),0,1,1
+2016-02-28 14:00:00,Initiative «gegen die Heiratsstrafe»,1,0,0
+2016-02-28 15:00:00,«Durchsetzungsinitiative»,1,0,0
+2016-02-28 16:00:00,Initiative «Keine Spekulation mit Nahrungsmitteln!»,0,1,0
+2016-02-28 17:00:00,Sanierung Gotthard-Strassentunnel,1,0,1
+2016-06-05 18:00:00,Initiative «Pro Service public»,0,0,0
+2016-06-05 19:00:00,Initiative «Für ein bedingungsloses Grundeinkommen»,0,0,0
+2016-06-05 20:00:00,Initiative «Für eine faire Verkehrsfinanzierung»,1,0,0
+2016-06-05 22:00:00,Asylgesetz,0,1,1
+2016-09-25 23:00:00,Initiative «Grüne Wirtschaft»,0,1,0
+2016-09-25 00:00:00,Initiative «AHVplus: für eine starke AHV»,0,1,0
+2016-09-25 01:00:00,Nachrichtendienstgesetz,1,0,1
+2016-11-27 02:00:00,Atomausstiegsinitiative,0,1,0
+2017-02-12 03:00:00,Erleichterte Einbürgerung der dritten Ausländergeneration,0,1,1
+2017-02-12 04:00:00,Fonds für die Nationalstrassen und den Agglomerationsverkehr (NAF),1,0,1
+2017-02-12 05:00:00,Unternehmenssteuerreform III,1,0,0
+2017-05-21 06:00:00,Energiegesetz,0,1,1
+2017-09-24 07:00:00,Bundesbeschluss über die Ernährungssicherheit,1,1,1
+2017-09-24 08:00:00,Zusatzfinanzierung der AHV durch eine Erhöhung der Mehrwertsteuer,0,1,0
+2017-09-24 09:00:00,Reform der Altersvorsorge 2020,0,1,0
+2018-03-04 10:00:00,Neue Finanzordnung 2021,1,1,1
+2018-03-04 11:00:00,Initiative «Abschaffung der Billag-Gebühren»,1,0,0
+2018-06-10 12:00:00,Vollgeld-Initiative,0,0,0
+2018-09-23 14:00:00,Bundesbeschluss über die Velowege sowie die Fuss- und Wanderwege,0,1,1
+2018-09-23 15:00:00,Fair-Food-Initiative,0,1,0
+2018-09-23 16:00:00,Initiative «Für Ernährungssouveränität»,0,1,0
+2018-11-25 17:00:00,Hornkuh-Initiative,0,1,0
+2018-11-25 18:00:00,Selbstbestimmungsinitiative,1,0,0
+2018-11-25 19:00:00,Gesetzliche Grundlage für die Überwachung von Versicherten,1,0,1
+2019-02-10 20:00:00,Zersiedelungsinitiative,0,1,0
+2019-05-19 22:00:00,Umsetzung der EU-Waffenrichtlinie,0,1,1
+2020-02-09 23:00:00,Initiative «Mehr bezahlbare Wohnungen»,0,1,0
+2020-02-09 00:00:00,Verbot der Diskriminierung aufgrund der sexuellen Orientierung,0,1,1
+2020-09-27 01:00:00,Begrenzungsinitiative,1,0,0
+2020-09-27 02:00:00,Jagdgesetz,1,0,0
+2020-09-27 03:00:00,Erhöhung der steuerlichen Kinderabzüge,1,0,0
+2020-09-27 04:00:00,Vaterschaftsurlaub,0,1,1
+2020-09-27 05:00:00,Beschaffung neuer Kampfflugzeuge,1,0,1
+2020-11-29 06:00:00,Konzernverantwortungsinitiative,0,1,0
+2020-11-29 07:00:00,«Kriegsgeschäfte-Initiative»,0,1,0
+2021-03-07 08:00:00,Initiative für ein Verhüllungsverbot,1,0,1
+2021-03-07 09:00:00,Gesetz über elektronische Identifizierungsdienste,1,0,0
+2021-03-07 10:00:00,Freihandelsabkommen mit Indonesien,1,0,1
+2021-06-13 11:00:00,Trinkwasserinitiative,0,1,0
+2021-06-13 12:00:00,Pestizidinitiative,0,1,0
+2021-06-13 14:00:00,CO2-Gesetz,0,1,0
+2021-06-13 15:00:00,Gesetz über polizeiliche Massnahmen gegen Terrorismus,1,0,1
+2021-09-26 16:00:00,«99%-Initiative»,0,1,0
+2021-09-26 17:00:00,Ehe für alle,0,1,1

@@ -1,5 +1,4 @@
 datum,titel_kurz_d,br_pos,annahme
-1848-09-12 00:00:00,Bundesverfassung der schweizerischen Eidgenossenschaft,3,1
 1875-05-23 12:00:00,Gesetz betreffend Feststellung und Beurkundung des Zivilstandes und die Ehe,1,1
 1875-05-23 13:00:00,Gesetz über die politische Stimmberechtigung der Schweizerbürger,1,0
 1876-04-23 14:00:00,Banknotengesetz,1,0
@@ -19,8 +18,6 @@ datum,titel_kurz_d,br_pos,annahme
 1891-03-15 10:00:00,Pensionsgesetz,1,0
 1891-10-18 13:00:00,Zolltarifgesetz,1,1
 1891-12-06 14:00:00,Rückkauf der Centralbahn,1,0
-1893-08-20 15:00:00,Initiative für ein Schächtverbot,3,1
-1894-06-03 17:00:00,Initiative «zur Gewährleistung des Rechts auf Arbeit»,3,0
 1894-11-04 18:00:00,Zollinitiative,0,0
 1895-02-03 19:00:00,Gesandtschaftsgesetz,1,0
 1896-10-04 22:00:00,Viehhandelsgesetz,1,0
@@ -48,7 +45,6 @@ datum,titel_kurz_d,br_pos,annahme
 1921-01-30 14:00:00,Initiative «für die Aufhebung der Militärjustiz»,0,0
 1922-06-11 17:00:00,Initiative «betreffend die Erlangung des Schweizerbürgerrechts»,0,0
 1922-06-11 18:00:00,Initiative «betreffend die Ausweisung von Ausländern»,0,0
-1922-06-11 19:00:00,Initiative «betreffend die Wählbarkeit der Bundesbeamten in den Nationalrat»,3,0
 1922-09-24 20:00:00,Strafrechtsrevision (innere Sicherheit und bedingter Strafvollzug),1,0
 1922-12-03 21:00:00,Initiative für eine einmalige Vermögensabgabe,0,0
 1923-02-18 22:00:00,Schutzhaft-Initiative,0,0
@@ -70,7 +66,6 @@ datum,titel_kurz_d,br_pos,annahme
 1935-02-24 00:00:00,Neuordnung der militärischen Ausbildung,1,1
 1935-05-05 01:00:00,Verkehrsteilungsgesetz,1,0
 1935-06-02 02:00:00,Initiative «zur Bekämpfung der Wirtschaftskrise»,0,0
-1935-09-08 03:00:00,Initiative für eine Totalrevision der Bundesverfassung,3,0
 1937-11-28 04:00:00,Initiative «für ein Verbot der Freimaurerei»,0,0
 1938-02-20 05:00:00,Anerkennung des Rätoromanischen als Nationalsprache,1,1
 1938-02-20 06:00:00,Initiative zur Beschränkung der Dringlichkeitsklausel,0,0
@@ -173,7 +168,6 @@ datum,titel_kurz_d,br_pos,annahme
 1978-12-03 12:00:00,Tierschutzgesetz ,1,1
 1978-12-03 13:00:00,Sicherheitspolizeigesetz,1,0
 1978-12-03 14:00:00,Berufsbildungsgesetz,1,1
-1979-02-18 15:00:00,Stimm- und Wahlrecht für 18-Jährige,3,0
 1979-02-18 16:00:00,Bundesbeschluss über die Fuss- und Wanderwege,1,1
 1979-02-18 17:00:00,Initiative «gegen Suchtmittelreklame»,0,0
 1979-02-18 18:00:00,Atominitiative,0,0
@@ -315,7 +309,6 @@ datum,titel_kurz_d,br_pos,annahme
 1996-06-09 10:00:00,Verfassungsartikel zur Landwirtschaft,1,1
 1996-06-09 11:00:00,Regierungs- und Verwaltungsorganisationsgesetz,1,0
 1996-12-01 12:00:00,Initiative «gegen die illegale Einwanderung»,0,0
-1996-12-01 13:00:00,Arbeitsgesetz,3,0
 1997-06-08 14:00:00,Initiative «EU-Beitrittsverhandlungen vors Volk!»,0,0
 1997-06-08 15:00:00,Initiative «für ein Verbot der Kriegsmaterialausfuhr»,0,0
 1997-06-08 16:00:00,Aufhebung des Pulverregals,1,1
