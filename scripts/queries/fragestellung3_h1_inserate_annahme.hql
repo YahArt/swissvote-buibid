@@ -4,6 +4,6 @@ CREATE TABLE buibid.fragestellung3_h1_inserate_annahme(datum TIMESTAMP, titel_ku
 
 INSERT INTO TABLE buibid.fragestellung3_h1_inserate_annahme SELECT * FROM buibid.import_inserate_annahme;
 
--- SELECT CORR(inserate_ja, annahme) FROM buibid.fragestellung3_h1_inserate_annahme WHERE annahme = 1;
+SELECT CORR(inserate_ja, annahme) FROM buibid.fragestellung3_h1_inserate_annahme WHERE annahme = 1;
 
--- SELECT CORR(inserate_nein, annahme) FROM buibid.fragestellung3_h1_inserate_annahme WHERE annahme = 0; 
+SELECT CORR(inserate_nein, annahme) FROM buibid.fragestellung3_h1_inserate_annahme WHERE annahme = 0; 
